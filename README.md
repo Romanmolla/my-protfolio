@@ -3,9 +3,9 @@ Welcome to my portfolio! This project showcases my skills, projects, and experie
 
 ### Weblink: [Live Website](https://lucent-profiterole-2a1ded.netlify.app)
 ## Some Images:
-<img width="450px;" src=""/>
-<img width="450px;" src=""/>
-<img width="450px;" src=""/>
+<img width="450px;" src="https://github.com/Romanmolla/my-protfolio/blob/master/Screenshot%20(78).png"/>
+<img width="450px;" src="https://github.com/Romanmolla/my-protfolio/blob/master/Screenshot%20(79).png"/>
+<img width="450px;" src="https://github.com/Romanmolla/my-protfolio/blob/master/Screenshot%20(81).png"/>
 <img width="450px;" src=""/>
 <img width="450px;" src=""/>
 <img width="450px;" src=""/>
